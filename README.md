@@ -13,6 +13,7 @@
 ### 👨‍💻 About Me
 
 * CSE Undergraduate @ MBM University (2024–2028)
+* CGPA: 8.70
 * Ex-Research Intern @ DRDO | Ex-Full Stack Intern @ Trimoss
 * Competitive Programmer — LeetCode Max Rating **1768** (Top 9.2%)
 * Finalist — IIT Jammu Generative AI Hackathon
